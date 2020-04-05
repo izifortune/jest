@@ -19,6 +19,7 @@ Although Jest may be considered a React-specific test runner, in fact it is a un
 ## Angular
 
 - [Testing Angular faster with Jest](https://www.xfive.co/blog/testing-angular-faster-jest/) by Michał Pierzchała ([@thymikee](https://twitter.com/thymikee))
+- [Unit testing Angular applications with Jest](https://izifortune.com/unit-testing-angular-applications-with-jest/) by Fabrizio Fortunato([@izifortune])(https://twitter.com/izifortune)
 
 ## MobX
 
